@@ -30,6 +30,7 @@ int main()
 
 {
     ////// get user email//////
+    /* Check email validation with angular expression in C */
     // regex is the memory location where the pattern to be matched is stored.
     regex_t regex;
 
