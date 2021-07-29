@@ -1,1 +1,2 @@
-# CProject
+# University Registration System
+
